@@ -11,5 +11,5 @@ An app that will find all occurrences of sub string in text, including delta fun
 ![image](https://user-images.githubusercontent.com/63515984/173310415-158b9166-072c-405a-979a-b5a44420f058.png)
 
 
-https://user-images.githubusercontent.com/63515984/173310868-32ca9c74-46b5-4de9-b94b-a5a2f4aa89e6.mp4
+[![Watch the video]https://user-images.githubusercontent.com/63515984/173310868-32ca9c74-46b5-4de9-b94b-a5a2f4aa89e6.mp4
 

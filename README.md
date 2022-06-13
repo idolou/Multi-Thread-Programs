@@ -30,15 +30,17 @@ An app that will find all occurrences of sub string in text, including delta fun
 
 <p>
   2. DDos attack application on Windows Form app
+ </p>
  [![Watch the video](https://img.youtube.com/vi/T-CIjt1aUPM/maxresdefault.jpg)](https://youtu.be/T-CIjt1aUPM)
  
-</p>
+
 
 <p>
   3. Task Manager
+ </p>
 ![image](https://user-images.githubusercontent.com/63515984/173310415-158b9166-072c-405a-979a-b5a44420f058.png)
  
-</p>
+
 
 <p>
   4. Prime numbers calculator

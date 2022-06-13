@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCalc", "PrimeCalc\PrimeCalc.csproj", "{7D9B3AA1-885D-4BB1-A7AB-C8B2CE37141B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9B3AA1-885D-4BB1-A7AB-C8B2CE37141B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9B3AA1-885D-4BB1-A7AB-C8B2CE37141B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9B3AA1-885D-4BB1-A7AB-C8B2CE37141B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9B3AA1-885D-4BB1-A7AB-C8B2CE37141B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE97EBDD-3996-407E-B0A8-D825DEFE9A8C}
+	EndGlobalSection
+EndGlobal

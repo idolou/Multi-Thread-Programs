@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MultiThreadedSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "testfile1.txt \"or\" 100 0"
+    }
+  }
+}

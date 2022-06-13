@@ -1,0 +1,17 @@
+C:\Users\idolo\source\repos\DDos\DDos\bin\Debug\net6.0-windows\DDos.exe
+C:\Users\idolo\source\repos\DDos\DDos\bin\Debug\net6.0-windows\DDos.deps.json
+C:\Users\idolo\source\repos\DDos\DDos\bin\Debug\net6.0-windows\DDos.runtimeconfig.json
+C:\Users\idolo\source\repos\DDos\DDos\bin\Debug\net6.0-windows\DDos.dll
+C:\Users\idolo\source\repos\DDos\DDos\bin\Debug\net6.0-windows\DDos.pdb
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.csproj.AssemblyReference.cache
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.Form1.resources
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.csproj.GenerateResource.cache
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.AssemblyInfoInputs.cache
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.AssemblyInfo.cs
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.csproj.CoreCompileInputs.cache
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.dll
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\refint\DDos.dll
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.pdb
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\DDos.genruntimeconfig.cache
+C:\Users\idolo\source\repos\DDos\DDos\obj\Debug\net6.0-windows\ref\DDos.dll
